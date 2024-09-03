@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gomez-dan
+- 👋 Hi, I’m Daniel J. Gomez-Santos
 - 👀 I’m interested in computational biology.
 - 🌱 I’m currently learning genetics and spatial biology.
 - 💞️ I’m looking to collaborate on single-cell omics.
-- 📫 How to reach me dangomez.sc@gmail.com
+- 📫 How to reach me dangomez108@icloud.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions. 
 
